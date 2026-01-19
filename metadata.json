@@ -1,0 +1,8 @@
+
+{
+  "name": "FundaBuddy AI",
+  "description": "An educational assistant that helps students learn through personalized chat, note analysis, quiz generation, and progress tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
