@@ -1,26 +1,31 @@
-# Smart Career Coach: AI Resume Analyzer
+# FundaBuddy AI – AI-Powered Multilingual Study Assistant
+### Bridging Language Barriers in South African High School Education (Grades 8–12)
 
-An interactive web application built with Streamlit and Google Gemini 1.5 Flash.
-This tool allows users to upload an image of their resume and receive instant, expert-level feedback on strengths, areas for improvement, and an overall professional score.
-
----
-
-## Features
-
-- Image Processing
-Supports JPG, JPEG, and PNG resume formats.
-
-- AI-Powered Analysis
-Uses Google’s Generative AI to analyze resume content directly from images.
-
-- Instant Scoring
-Generates a professional resume score ranging from 0–100.
-
-- Actionable Feedback
-Provides three clear and practical suggestions to improve the resume.
+**FundaBuddy AI** is an inclusive, multilingual study companion designed for South African learners in **Grades 8–12**. Built with **Google AI Studio** and powered by **Google Gemini 1.5 Flash**, it helps students understand complex subjects in the language they are most comfortable with.
 
 ---
 
 ## Project Purpose
 
-This project is designed to help job seekers evaluate and improve their resumes using AI-driven insights, making career development more accessible and efficient.
+FundaBuddy AI aims to bridge educational gaps caused by language barriers in South African schools by:
+
+- **Promoting Inclusivity:** Providing academic support in all **11 official South African languages**
+- **Improving Comprehension:** Simplifying difficult concepts through text, image, and voice-based learning
+- **Empowering Learners:** Offering 24/7 study support to boost confidence and exam readiness
+
+---
+
+## Key Features
+
+- **Multilingual Learning:** Study in any of South Africa’s 11 official languages
+- **Multimodal Support:** Upload handwritten notes or textbook images for instant explanations
+- **Voice Summaries:** Get audio overviews of complex topics
+- **Quiz Preparation:** Generate practice questions from your own notes
+
+---
+
+## Tech Stack
+
+- **Frontend:** Streamlit
+- **AI Engine:** Google Gemini 1.5 Flash (Google AI Studio)
+- **Languages:** TypeScript, HTML
